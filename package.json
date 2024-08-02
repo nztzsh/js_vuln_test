@@ -11,6 +11,7 @@
   "description": "",
   "dependencies": {
     "minimist": "1.2.5",
+    "mongodb": "^3.5.9",
     "mongoose": "4.2.4"
   }
 }
