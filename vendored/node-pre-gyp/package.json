@@ -37,7 +37,7 @@
     "detect-libc": "^1.0.2",
     "mkdirp": "^0.5.1",
     "needle": "^2.2.1",
-    "nopt": "^4.0.1",
+    "nopt": "7.2.1",
     "npm-packlist": "^1.1.6",
     "npmlog": "^4.0.2",
     "rc": "^1.2.7",
